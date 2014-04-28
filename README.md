@@ -3,7 +3,7 @@ gh-td
 
 # Grasshopper -> TouchDesigner OSC Bridge for Polygon Mesh Geometry
 
-By Gabriel Dunne
+(c) 2013-2014 Gabriel Dunne
 
 
 ## Abstract
@@ -22,6 +22,15 @@ Grasshopper Plugins
 - [GhPython](http://www.food4rhino.com/project/ghpython)
 - [LunchBox](http://www.food4rhino.com/project/lunchbox)
 
-TODO: [ screenshot ]
+## Screenshots
+
+### Grasshopper Sender
+gh/sender.gh
+![](https://github.com/quilime/gh-td/blob/master/screenshots/sender_gh.PNG?raw=true)
+
+### TouchDesigner Receiver
+td/receiver.toe
+![](https://raw.githubusercontent.com/quilime/gh-td/master/screenshots/receive_01.PNG)
+
 
 TODO: [ tutorial ]
