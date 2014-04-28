@@ -12,12 +12,12 @@ A proof-of-concept patch that sends polygon from Grasshopper in realtime to Touc
 
 ## Requirements
 
+### Software
 - [Rhino3D](http://rhino3d.com)
 - [Grasshopper3D](http://www.grasshopper3d.com/)
 - [TouchDesigner](https://www.derivative.ca/)
 
-Grasshopper Plugins
-
+### Grasshopper Plugins
 - [gHowl](http://www.grasshopper3d.com/group/ghowl)
 - [GhPython](http://www.food4rhino.com/project/ghpython)
 - [LunchBox](http://www.food4rhino.com/project/lunchbox)
