@@ -34,11 +34,15 @@ A collection of patches that send\receive polygon geometry from Grasshopper in r
 2. Open td/receiver.toe in TouchDesigner
 
 #### Grasshopper Sender
+
 gh/sender.gh
+
 ![](https://github.com/quilime/gh-td/blob/master/screenshots/gh_sender.PNG)
 
 ### TouchDesigner Receiver
+
 td/receiver.toe
+
 ![](https://raw.githubusercontent.com/quilime/gh-td/master/screenshots/td_receive.PNG)
 
 ### Sending geometry from Touchdesigner -> Grasshopper
@@ -47,11 +51,15 @@ td/receiver.toe
 2. Open gh/sender.gh in Grasshopper
 
 ### TouchDesigner Sender
-td/receiver.toe
+
+td/sender.toe
+
 ![](https://raw.githubusercontent.com/quilime/gh-td/master/screenshots/td_sender.JPG)
 
 #### Grasshopper Receiver
-gh/sender.gh
+
+gh/receiver.gh
+
 ![](https://github.com/quilime/gh-td/blob/master/screenshots/gh_receiver.JPG)
  
 
