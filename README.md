@@ -7,8 +7,8 @@ gh-td
 
 ## Authors:
 
-	- Gabriel Dunne [http://github.com/quilime/](@quilime)  
-	- Ana Hurruzo  [http://github.com/ana00/](@ana00)
+- Gabriel Dunne ([@quilime](http://github.com/quilime/))
+- Ana Hurruzo  ([@ana00](http://github.com/ana00/))
 
 ## Abstract
 
@@ -30,29 +30,29 @@ A collection of patches that send\receive polygon geometry from Grasshopper in r
 
 ### Sending geometry from Grasshopper -> Touchdesigner
 
-	1. open gh/sender.gh in Grasshopper
-	2. open td/receiver.toe in TouchDesigner
+1. Open gh/sender.gh in Grasshopper
+2. Open td/receiver.toe in TouchDesigner
 
-### Sending geometry from Touchdesigner -> Grasshopper
-
-	1. open td/receiver.toe in TouchDesigner
-	2. open gh/sender.gh in Grasshopper
-
-## Screenshots
-
-### Grasshopper Sender
+#### Grasshopper Sender
 gh/sender.gh
 ![](https://github.com/quilime/gh-td/blob/master/screenshots/gh_sender.PNG)
 
-### Grasshopper Receiver
-gh/sender.gh
-![](https://github.com/quilime/gh-td/blob/master/screenshots/gh_receiver.JPG)
+### TouchDesigner Receiver
+td/receiver.toe
+![](https://raw.githubusercontent.com/quilime/gh-td/master/screenshots/td_receive.PNG)
+
+### Sending geometry from Touchdesigner -> Grasshopper
+
+1. Open td/receiver.toe in TouchDesigner
+2. Open gh/sender.gh in Grasshopper
 
 ### TouchDesigner Sender
 td/receiver.toe
 ![](https://raw.githubusercontent.com/quilime/gh-td/master/screenshots/td_sender.JPG)
 
-### TouchDesigner Receiver
-td/receiver.toe
-![](https://raw.githubusercontent.com/quilime/gh-td/master/screenshots/td_receive.PNG)
+#### Grasshopper Receiver
+gh/sender.gh
+![](https://github.com/quilime/gh-td/blob/master/screenshots/gh_receiver.JPG)
+ 
+
 
