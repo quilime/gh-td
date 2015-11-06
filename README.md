@@ -8,7 +8,7 @@ gh-td
 ## Authors:
 
 - Gabriel Dunne ([@quilime](http://github.com/quilime/))
-- Ana Hurruzo  ([@ana00](http://github.com/ana00/))
+- Ana Herruzo  ([@ana00](http://github.com/ana00/))
 
 ## Abstract
 
