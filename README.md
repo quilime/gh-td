@@ -25,6 +25,7 @@ A collection of patches that send\receive polygon geometry from Grasshopper in r
 - [gHowl](http://www.grasshopper3d.com/group/ghowl)
 - [GhPython](http://www.food4rhino.com/project/ghpython)
 - [LunchBox](http://www.food4rhino.com/project/lunchbox) (Used for demo purposes)
+- How to install Grasshopper Plugins (http://coder.the-bac.edu/?p=97)
 
 ## Examples
 
